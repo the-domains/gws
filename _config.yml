@@ -1,0 +1,28 @@
+name: GWS
+favicon: null
+layout_spectrum: 0.5828920416533947
+typography_spectrum: 0.6765246472787112
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7018653138075024
+  lightness: 0.6952394843101501
+  saturation: 0.3018922384362668
+  rhythmicContrast: 0.08556108386255801
+purpose: []
