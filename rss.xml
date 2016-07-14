@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GWS]]></title>
         <description><![CDATA[GWS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gws/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 06:10:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 06:14:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gws/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>NIKILIME WEBSITE LAUNCHED </p>]]></description>
-            <link>undefinednikilime-website-launched/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d7accd8-6dae-46cf-b3a6-046d62af3618.jpg">]]></description>
+            <link>https://thegrid.ai/gws/nikilime-website-launched/index.html</link>
             <guid isPermaLink="false">c421c851-ced2-4104-9edf-e9d0018e8ca5</guid>
-            <pubDate>Thu, 14 Jul 2016 06:10:09 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2016 06:14:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
